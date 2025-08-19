@@ -47,7 +47,11 @@ All applications in this repository require:
 
 ## 📞 Support
 
-For app-specific issues, please refer to the individual app's README file. For general repository questions, feel free to open an issue.
+For app-specific issues, please refer to the individual app's README file. For general repository questions, comments, or feedback, please contact:
+
+**Email**: bmoler@brianmoler.com
+
+You can also open an issue on this repository for bug reports or feature requests.
 
 ---
 

@@ -67,6 +67,7 @@ Future versions may include:
 ## 📞 Support
 
 For issues, questions, or feedback regarding this app:
+- **Email**: bmoler@brianmoler.com for direct support
 - Check the [main repository README](../README.md) for general information
 - Review the known issues section above
 - Ensure your device meets the minimum requirements
