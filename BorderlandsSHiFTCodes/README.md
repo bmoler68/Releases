@@ -28,6 +28,9 @@ The app requires the following permissions to function properly:
 - **INTERNET**: Required to fetch the latest SHiFT codes from remote servers
   - *Used for*: Downloading SHiFT code data from Google Sheets API
   - *Privacy*: No personal data is transmitted; only public SHiFT code data is fetched
+- **INTERNET**: Required for external browser links
+  - *Used for*: Opening app documentation, privacy policy, and external links
+  - *Privacy*: No personal data is transmitted; only opens user's preferred browser
 
 ## 📥 Installation
 

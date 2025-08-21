@@ -9,6 +9,13 @@ A modern Android application for viewing and managing Borderlands SHiFT codes, b
 
 **Latest Version**: v1.0.0  
 **Status**: Active Development  
+**Category**: Gaming Utility
+
+### [HexaRoll](./HexaRoll/README.md)
+A modern Android dice rolling application with multiple theme options for tabletop RPG gaming.
+
+**Latest Version**: v1.0.0  
+**Status**: Active Development  
 **Category**: Gaming Utility  
 
 ## 📂 Repository Structure
@@ -17,6 +24,9 @@ A modern Android application for viewing and managing Borderlands SHiFT codes, b
 Releases/
 ├── README.md                    # This file - main repository overview
 ├── BorderlandsSHiFTCodes/       # Borderlands SHiFT Codes app
+│   ├── README.md               # App-specific documentation
+│   └── *.apk                   # Release files
+├── HexaRoll/                    # HexaRoll puzzle game app
 │   ├── README.md               # App-specific documentation
 │   └── *.apk                   # Release files
 └── [Future Apps]/              # Additional apps will be added here
