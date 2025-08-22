@@ -4,19 +4,29 @@ Welcome to the Android app releases repository! This repository contains all rel
 
 ## 📱 Available Applications
 
-### [Borderlands SHiFT Codes](./BorderlandsSHiFTCodes/README.md)
-A modern Android application for viewing and managing Borderlands SHiFT codes, built with Jetpack Compose.
+### Borderlands SHiFT Codes
 
 **Latest Version**: v1.0.0  
 **Status**: Active Development  
 **Category**: Gaming Utility
 
-### [HexaRoll](./HexaRoll/README.md)
-A modern Android dice rolling application with multiple theme options for tabletop RPG gaming.
+**About**: An unofficial fan project designed to provide easy access to SHiFT codes for the Borderlands and Wonderlands gaming universe. This app serves as a convenient way to view and manage codes that can be redeemed on the official Gearbox SHiFT website or directly in-game.
+
+**Requirements**: Android API 24+ (Android 7.0) with minimum 2GB RAM recommended
+for optimal performance
+
+**Important Disclaimer**: This application is completely unofficial and not affiliated with, sponsored by, or endorsed by Gearbox Software or 2K Games. All content, characters, visuals, and references to Borderlands and Tiny Tina's Wonderlands are the intellectual property of Gearbox Software and 2K Games.
+
+### HexaRoll
 
 **Latest Version**: v1.0.0  
 **Status**: Active Development  
-**Category**: Gaming Utility  
+**Category**: Gaming Utility
+
+**About**: A modern Android dice rolling application designed specifically for tabletop RPG gaming. Built with Jetpack Compose and featuring five distinct visual themes, it provides a comprehensive dice rolling experience with 8 different polyhedral dice types, persistent roll history, and a comprehensive achievement system.
+
+**Requirements**: Android API 24+ (Android 7.0) with minimum 2GB RAM recommended for optimal performance
+
 
 ## 📂 Repository Structure
 
@@ -24,20 +34,17 @@ A modern Android dice rolling application with multiple theme options for tablet
 Releases/
 ├── README.md                    # This file - main repository overview
 ├── BorderlandsSHiFTCodes/       # Borderlands SHiFT Codes app
-│   ├── README.md               # App-specific documentation
 │   └── *.apk                   # Release files
-├── HexaRoll/                    # HexaRoll puzzle game app
-│   ├── README.md               # App-specific documentation
+├── HexaRoll/                    # HexaRoll dice rolling app
 │   └── *.apk                   # Release files
 └── [Future Apps]/              # Additional apps will be added here
-    ├── README.md
     └── *.apk
 ```
 
 ## 🚀 Quick Start
 
 1. **Browse Applications**: Check the available applications listed above
-2. **Select an App**: Click on the app name to view its dedicated README
+2. **Review App Details**: Read the app descriptions and requirements in this README
 3. **Download**: Find the latest release APK in the app's folder
 4. **Install**: Enable "Install from Unknown Sources" and install the APK
 
@@ -46,18 +53,18 @@ Releases/
 All applications in this repository require:
 - **Android 7.0** (API level 24) or higher
 - **Installation from Unknown Sources** enabled
-- Specific requirements vary by app - check individual app READMEs
+- Specific requirements are detailed in each app's section above
 
 ## 🔄 Release Management
 
-- Each application has its own folder with dedicated documentation
+- Each application has its own folder with release files
 - Release files follow the naming convention: `AppName-release-vX.Y.Z.apk`
-- Version history and changelogs are maintained in each app's README
+- App information and requirements are documented in this README
 - All releases are thoroughly tested before publishing
 
 ## 📞 Support
 
-For app-specific issues, please refer to the individual app's README file. For general repository questions, comments, or feedback, please contact:
+For app-specific issues, questions, or feedback, please contact:
 
 **Email**: bmoler@brianmoler.com
 
