@@ -12,7 +12,7 @@ The live site provides a beautiful, interactive interface for browsing and downl
 
 ### Borderlands SHiFT Codes
 
-**Latest Version**: v1.0.0  
+**Latest Version**: v1.1.0  
 **Status**: Active Development  
 **Category**: Gaming Utility
 
@@ -39,6 +39,7 @@ Releases/
 ├── index.html                   # GitHub Pages site - main entry point
 ├── README.md                    # This file - repository documentation
 ├── BorderlandsSHiFTCodes/       # Borderlands SHiFT Codes app
+│   ├── Borderlands SHiFT Codes-release-v1.1.0.apk
 │   ├── Borderlands SHiFT Codes-release-v1.0.0.apk
 │   └── SHiFT_icon.png         # App icon
 ├── HexaRoll/                    # HexaRoll dice rolling app
