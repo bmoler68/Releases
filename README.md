@@ -12,7 +12,7 @@ The live site provides a beautiful, interactive interface for browsing and downl
 
 ### Borderlands SHiFT Codes
 
-**Latest Version**: v1.1.0  
+**Latest Version**: v1.2.0  
 **Status**: Active Development  
 **Category**: Gaming Utility
 
